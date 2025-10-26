@@ -6,6 +6,7 @@ name = "Alice"
 
 # Assign the result of an expression to a variable
 y = x + 3
+x = y + 3
 
 # You can also assign the value of one variable to another
 z = x
