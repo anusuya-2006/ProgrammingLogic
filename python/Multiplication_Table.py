@@ -3,7 +3,7 @@ try:
    # take input for the calculation value
    num = int(input("Eneter Number to multiplay : "))
    
-   # check the input for range whether is it a integer or not
+   # check the input for range whether is it a integer or not(create)
    try:
 
       # take input for the range 
@@ -22,3 +22,4 @@ try:
 # if input for calculation value is not a integer then print error on here
 except:
    print("Input Type Error!")
+
